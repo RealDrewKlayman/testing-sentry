@@ -1,0 +1,6 @@
+[defaults]
+org = testing-gw
+project = react
+
+[auth]
+token = 9973d48bad7f41c9b9a62db297160008cfa73f8dbaf7413ca5f9257b41947165
